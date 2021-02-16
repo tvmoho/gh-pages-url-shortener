@@ -11,14 +11,11 @@ Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no G
 
 1. O novo link pode ser acessado digitando `tvmoho.github.io/link/{issue_number}`
 
-## ☕️ Features
+## ☕️ Características
 
-1. Unlike many URL shorteners, this one ~~does not need a database~~ uses a
-   "database" in the form of GitHub issues and can be entirely hosted on GitHub
-   pages.
+1. Ao contrário de muitos encurtadores de links, este ~~não precisa de um banco de dados~~ usa um "banco de dados" na forma de issues do Github e pode ser totalmente hospedado e mantido no Github.
 
-1. There is no need for the pound symbol - short URLs look clean like this:
-   `nlsn.cf/1` instead of looking like this: `nlsn.cf/#1`.
+1. Não há necessidade de usar símbolos: `tvmoho.github.io/link/#1`.
 
 ## 💡 How does this work?
 
