@@ -2,7 +2,7 @@
 
 Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no Github.
 
-## 👨‍🏫 Demo
+## Demo
 
 1. [tvmoho.github.io/link/1](https://tvmoho.github.io/link/1) vinculado a este repositório.
 
@@ -11,7 +11,7 @@ Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no G
 
 1. O novo link pode ser acessado digitando `tvmoho.github.io/link/{issue_number}`
 
-## ☕️ Características
+## Características
 
 1. Ao contrário de muitos encurtadores de links, este ~~não precisa de um banco de dados~~, usa um "banco de dados" na forma de issues do Github e pode ser totalmente hospedado e mantido no Github.
 
