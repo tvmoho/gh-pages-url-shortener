@@ -13,7 +13,7 @@ Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no G
 
 ## ☕️ Características
 
-1. Ao contrário de muitos encurtadores de links, este ~~não precisa de um banco de dados~~ usa um "banco de dados" na forma de issues do Github e pode ser totalmente hospedado e mantido no Github.
+1. Ao contrário de muitos encurtadores de links, este ~~não precisa de um banco de dados~~, usa um "banco de dados" na forma de issues do Github e pode ser totalmente hospedado e mantido no Github.
 
 1. Não há necessidade de usar símbolos: `tvmoho.github.io/link/#1`.
 
