@@ -2,23 +2,14 @@
 
 Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no Github.
 
-[Yay! We got to the top of HN!](https://news.ycombinator.com/item?id=25110879)
-
-<img src="https://i.imgur.com/ZfD7XGt.png" alt="Top of HN" width="240px">
-
-And on GitHub trending!
-
-<img src="https://i.imgur.com/OkYCSOx.png" alt="GitHub Trending" width="240px">
-
 ## 👨‍🏫 Demo
 
-1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
+1. [tvmoho.github.io/link/1](https://tvmoho.github.io/link/1) vinculado a este repositório.
 
-1. To add a new short link, add an issue with the title being the link you want
-   to shorten (including the `http(s)://`) to
-   [https://github.com/nelsontky/gh-pages-url-shortener-db/issues](https://github.com/nelsontky/gh-pages-url-shortener-db/issues).
+1. Para encurtar um novo link, crie uma issue com o link à ser encurtado como título da issue... 
+   [https://github.com/tvmoho/link/issues](https://github.com/tvmoho/link/issues).
 
-1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
+1. O novo link pode ser acessado digitando `tvmoho.github.io/link/{issue_number}`
 
 ## ☕️ Features
 
