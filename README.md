@@ -17,7 +17,7 @@ Um Encurtador de Links (para uso interno).
 
 1. Não há necessidade de usar símbolos: `tvmoho.github.io/link/#1`.
 
-## 💡 How does this work?
+## Como funciona?
 
 _Thanks to @kidGodzilla for the pretty neat explanation
 [here](https://github.com/nelsontky/gh-pages-url-shortener/issues/5#issuecomment-728040879)._
