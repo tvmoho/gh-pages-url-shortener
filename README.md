@@ -1,6 +1,6 @@
 # MØHØtv - Encurtador de Links
 
-Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no Github.
+Um Encurtador de Links (para uso interno).
 
 ## Demo
 
