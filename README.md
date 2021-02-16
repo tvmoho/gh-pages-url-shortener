@@ -1,8 +1,6 @@
-# MØHØtv - Encurtador de Links (para uso interno)
+# MØHØtv - Encurtador de Links
 
-This is a minimal URL shortener that can be entirely hosted on GitHub pages. It
-does not need the maintenance of any servers or databases and can be hosted
-entirely on GitHub for free!
+Um Encurtador de Links (para uso interno) que pode ser totalmente hospedado no Github.
 
 [Yay! We got to the top of HN!](https://news.ycombinator.com/item?id=25110879)
 
